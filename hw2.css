@@ -1,0 +1,24 @@
+.container {
+  width: 220px;
+}
+
+.container h1 {
+  font-size: 18px;
+}
+
+.container p {
+  font-size: 11px;
+}
+
+.icons-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.icon-container {
+  font-size: 11px;
+}
+
+.icon-container img {
+  height: 10px;
+}
